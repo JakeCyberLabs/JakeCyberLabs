@@ -56,7 +56,7 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/JakeCyberLabs/Detection-Lab/tree/main">Detection Lab</a>
 - Disk Imaging
 
 <!--
