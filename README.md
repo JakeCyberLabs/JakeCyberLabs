@@ -12,6 +12,7 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Wazuh XDR Deployment and Detection          | <a href="https://github.com/JakeCyberLabs/Wazuh-SIEM-lab">Detection Lab</a>|
 | Detecting live cyberattacks with Azure Sentinal | <a href="https://github.com/JakeCyberLabs/Azure-SIEM-Detection-Lab-">Detection Lab</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/JakeCyberLabs/Detection-Lab/tree/main">Detection Lab</a>|
 
@@ -33,9 +34,10 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 
 ## Projects
 
+- <a href="https://github.com/JakeCyberLabs/Wazuh-SIEM-lab">Detection Lab</a>
 - <a href="https://github.com/JakeCyberLabs/Azure-SIEM-Detection-Lab-">Detection Lab</a>
 - <a href="https://github.com/JakeCyberLabs/Detection-Lab/tree/main">Detection Lab</a>
-
+- <a href="https://github.com/JakeCyberLabs/Wazuh-SIEM-lab">Detection Lab</a>
 <!--
 **JakeCyberLabs/JakeCyberLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
