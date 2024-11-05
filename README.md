@@ -37,7 +37,6 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 - <a href="https://github.com/JakeCyberLabs/Wazuh-SIEM-lab">Detection Lab</a>
 - <a href="https://github.com/JakeCyberLabs/Azure-SIEM-Detection-Lab-">Detection Lab</a>
 - <a href="https://github.com/JakeCyberLabs/Detection-Lab/tree/main">Detection Lab</a>
-- <a href="https://github.com/JakeCyberLabs/Wazuh-SIEM-lab">Detection Lab</a>
 <!--
 **JakeCyberLabs/JakeCyberLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
