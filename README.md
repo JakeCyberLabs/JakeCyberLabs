@@ -35,6 +35,10 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 <img src="https://img.shields.io/badge/ITIL%204%20Foundations-5A5B5C?style=for-the-badge&logo=itil&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ISC%20Squared-0077B5?style=for-the-badge&logo=isc2&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Project%2B-F07C2E?style=for-the-badge&logo=comptia&logoColor=white" />
+
+
 
 </div>
 
