@@ -1,17 +1,27 @@
-# Hello, I'm Jacob
+# 👋 Hello, I'm Jacob
 <a href="https://linkedin.com/in/jacob-bailey-bb43a121a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am currently a Cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
+I am a recent Cybersecurity graduate trying to break into the IT field, with a strong focus on networking and infrastructure. My goal is to build a solid technical foundation in enterprise networking while applying a security-first mindset to everything I do.
 
-## Objective
+## 🎯 Career Focus
 
-My journey in life has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am pursuing a networking-focused IT role to solidify my understanding of:
 
-## Skills
+- Network fundamentals (TCP/IP, DNS, DHCP, routing & switching)
+
+- Enterprise environments (Active Directory, Windows & Linux systems)
+
+- Network security concepts (firewalls, segmentation, monitoring)
+
+I believe strong networking knowledge is critical to becoming an effective cybersecurity professional, and I’m intentionally building that foundation hands-on.
+
+
+## ⚙️ Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Active Directory Domain + GPO Hardening Lab | <
 | Wazuh XDR Deployment and Detection          | <a href="https://github.com/JakeCyberLabs/Wazuh-SIEM-lab">Detection Lab</a>|
 | Detecting live cyberattacks with Azure Sentinal | <a href="https://github.com/JakeCyberLabs/Azure-SIEM-Detection-Lab-">Detection Lab</a> |
 | Elastic SIEM Implementation and Log Analysis          | <a href="https://github.com/JakeCyberLabs/Detection-Lab/tree/main">Detection Lab</a>|
