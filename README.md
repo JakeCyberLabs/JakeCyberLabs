@@ -21,7 +21,7 @@ I believe strong networking knowledge is critical to becoming an effective cyber
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Domain + GPO Hardening Lab | <
+| Active Directory Domain + GPO Hardening Lab | <a href="https://github.com/JakeCyberLabs/Active-Directory-Domain-GPO-Hardening"> AD Lab</a>|
 | Wazuh XDR Deployment and Detection          | <a href="https://github.com/JakeCyberLabs/Wazuh-SIEM-lab">Detection Lab</a>|
 | Detecting live cyberattacks with Azure Sentinal | <a href="https://github.com/JakeCyberLabs/Azure-SIEM-Detection-Lab-">Detection Lab</a> |
 | Elastic SIEM Implementation and Log Analysis          | <a href="https://github.com/JakeCyberLabs/Detection-Lab/tree/main">Detection Lab</a>|
