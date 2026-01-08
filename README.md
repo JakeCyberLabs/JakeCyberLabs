@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/jacob-bailey-bb43a121a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent Cybersecurity graduate trying to break into the IT field, with a strong focus on networking and infrastructure. My goal is to build a solid technical foundation in enterprise networking while applying a security-first mindset to everything I do.
+Entry-level IT Audit and Technology Risk candidate with a Cybersecurity background and hands-on exposure to IT controls testing, system access reviews, and risk documentation through labs and projects. Eager to learn, ask the right questions, and support internal audit teams by delivering clear, evidence-based findings
 
 ## 🎯 Career Focus
 
