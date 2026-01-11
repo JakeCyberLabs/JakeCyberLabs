@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/jacob-bailey-bb43a121a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Entry-level IT Audit and Technology Risk candidate with a Cybersecurity background and hands-on exposure to IT controls testing, system access reviews, and risk documentation through labs and projects. Eager to learn, ask the right questions, and support internal audit teams by delivering clear, evidence-based findings
+Entry-level IT Audit and Technology Risk candidate with a Cybersecurity background and hands-on exposure to IT controls testing, system access reviews, and risk documentation through labs and projects. Eager to learn, ask the right questions, and support internal audit teams by delivering clear, evidence-based findings.
 
 ## 🎯 Career Focus
 
